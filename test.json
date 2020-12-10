@@ -1,0 +1,222 @@
+[
+ {
+   "g_id": "g00001",
+   "type": 1,
+   "g_name": "原子練習",
+   "g_pic": "",
+   "originPrice": 310,
+   "price": 150,
+   "quantity": 3,
+   "useTime": "2019/10/3",
+   "remark": "內頁有些許折痕，完美主義勿買"
+ },
+ {
+   "g_id": "g00002",
+   "type": 2,
+   "g_name": "緊身牛仔褲",
+   "g_pic": "",
+   "originPrice": 390,
+   "price": 100,
+   "quantity": 1,
+   "useTime": "2020/5/5",
+   "remark": "全新未穿"
+ },
+ {
+   "g_id": "g00003",
+   "type": 3,
+   "g_name": "ipad mini 32g",
+   "g_pic": "",
+   "originPrice": 10000,
+   "price": 4000,
+   "quantity": 1,
+   "useTime": "2018/9/9",
+   "remark": "已過保"
+ },
+ {
+   "g_id": "g00004",
+   "type": 4,
+   "g_name": "科學麵5包裝",
+   "g_pic": "",
+   "originPrice": 50,
+   "price": 30,
+   "quantity": 10,
+   "useTime": "2019/5/5",
+   "remark": ""
+ },
+ {
+   "g_id": "g00005",
+   "type": 5,
+   "g_name": "平價小包",
+   "g_pic": "",
+   "originPrice": 680,
+   "price": 290,
+   "quantity": 1,
+   "useTime": "2019/3/10",
+   "remark": "只用過一次，保存完善"
+ },
+ {
+   "g_id": "g00006",
+   "type": 1,
+   "g_name": "海賊王漫畫32集",
+   "g_pic": "",
+   "originPrice": 98,
+   "price": 35,
+   "quantity": 1,
+   "useTime": "2014/5/5",
+   "remark": ""
+ },
+ {
+   "g_id": "g00007",
+   "type": 2,
+   "g_name": "晚宴服",
+   "g_pic": "",
+   "originPrice": 2000,
+   "price": 1000,
+   "quantity": 1,
+   "useTime": "2019/5/10",
+   "remark": "只穿一次"
+ },
+ {
+   "g_id": "g00008",
+   "type": 3,
+   "g_name": "htc u12 64g",
+   "g_pic": "",
+   "originPrice": 12000,
+   "price": 5000,
+   "quantity": 1,
+   "useTime": "2019/10/10",
+   "remark": ""
+ },
+ {
+   "g_id": "g00009",
+   "type": 4,
+   "g_name": "白鴿洗衣精",
+   "g_pic": "",
+   "originPrice": 120,
+   "price": 50,
+   "quantity": 1,
+   "useTime": "2020/1/1",
+   "remark": "多買用不完"
+ },
+ {
+   "g_id": "g00010",
+   "type": 5,
+   "g_name": "nice黑色後背包",
+   "g_pic": "",
+   "originPrice": 560,
+   "price": 200,
+   "quantity": 1,
+   "useTime": "2020/5/12",
+   "remark": "抽獎抽到,，用不到"
+ },
+ {
+   "g_id": "g00011",
+   "type": 1,
+   "g_name": "原子練習",
+   "g_pic": "",
+   "originPrice": 310,
+   "price": 150,
+   "quantity": 3,
+   "useTime": "2019/10/3",
+   "remark": "內頁有些許折痕，完美主義勿買"
+ },
+ {
+   "g_id": "g00012",
+   "type": 2,
+   "g_name": "緊身牛仔褲",
+   "g_pic": "",
+   "originPrice": 390,
+   "price": 100,
+   "quantity": 1,
+   "useTime": "2020/5/5",
+   "remark": "全新未穿"
+ },
+ {
+   "g_id": "g00013",
+   "type": 3,
+   "g_name": "ipad mini 32g",
+   "g_pic": "",
+   "originPrice": 10000,
+   "price": 4000,
+   "quantity": 1,
+   "useTime": "2018/9/9",
+   "remark": "已過保"
+ },
+ {
+   "g_id": "g00014",
+   "type": 4,
+   "g_name": "科學麵5包裝",
+   "g_pic": "",
+   "originPrice": 50,
+   "price": 30,
+   "quantity": 10,
+   "useTime": "2019/5/5",
+   "remark": ""
+ },
+ {
+   "g_id": "g00015",
+   "type": 5,
+   "g_name": "平價小包",
+   "g_pic": "",
+   "originPrice": 680,
+   "price": 290,
+   "quantity": 1,
+   "useTime": "2019/3/10",
+   "remark": "只用過一次，保存完善"
+ },
+ {
+   "g_id": "g00016",
+   "type": 1,
+   "g_name": "海賊王漫畫32集",
+   "g_pic": "",
+   "originPrice": 98,
+   "price": 35,
+   "quantity": 1,
+   "useTime": "2014/5/5",
+   "remark": ""
+ },
+ {
+   "g_id": "g00017",
+   "type": 2,
+   "g_name": "晚宴服",
+   "g_pic": "",
+   "originPrice": 2000,
+   "price": 1000,
+   "quantity": 1,
+   "useTime": "2019/5/10",
+   "remark": "只穿一次"
+ },
+ {
+   "g_id": "g00018",
+   "type": 3,
+   "g_name": "htc u12 64g",
+   "g_pic": "",
+   "originPrice": 12000,
+   "price": 5000,
+   "quantity": 1,
+   "useTime": "2019/10/10",
+   "remark": ""
+ },
+ {
+   "g_id": "g00019",
+   "type": 4,
+   "g_name": "白鴿洗衣精",
+   "g_pic": "",
+   "originPrice": 120,
+   "price": 50,
+   "quantity": 1,
+   "useTime": "2020/1/1",
+   "remark": "多買用不完"
+ },
+ {
+   "g_id": "g00020",
+   "type": 5,
+   "g_name": "nice黑色後背包",
+   "g_pic": "",
+   "originPrice": 560,
+   "price": 200,
+   "quantity": 1,
+   "useTime": "2020/5/12",
+   "remark": "抽獎抽到,，用不到"
+ }
+]
